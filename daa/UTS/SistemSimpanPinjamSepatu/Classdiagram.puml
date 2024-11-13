@@ -1,5 +1,5 @@
 @startuml
-class Kostum {
+class Sepatu {
   +id: int
   +nama: String
   +kondisi: String
@@ -9,13 +9,13 @@ class Kostum {
 class Peminjam {
   +id: int
   +nama: String
-  +meminjamKostum(): void
+  +meminjamSepatu(): void
 }
 
 class Petugas {
   +id: int
   +nama: String
-  +mengelolaKostum(): void
+  +mengelolaSepatu(): void
 }
 
 class Admin {
@@ -24,8 +24,8 @@ class Admin {
   +mengelolaDataPeminjam(): void
 }
 
-Kostum "1" -- "0..*" Peminjam : meminjam
-Kostum "1" -- "0..*" Petugas : mengelola
-Kostum "1" -- "0..1" Admin : mengelola
+Sepatu "1" -- "0..*" Peminjam : meminjam
+Sepatu "1" -- "0..*" Petugas : mengelola
+Sepatu "1" -- "0..1" Admin : mengelola
 
 @enduml
