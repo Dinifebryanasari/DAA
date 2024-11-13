@@ -1,0 +1,16 @@
+@startuml
+
+class Mahasiswa{
+-id
+-name
+-function()
+ }
+
+class Matakuliah{
+-id
+-name
+-test()
+ }
+Mahasiswa "..1" - Matakuliah
+
+@enduml

@@ -1,0 +1,15 @@
+@startuml
+actor Pembeli
+actor Penjual
+actor Admin
+
+Pembeli --> (Melihat Kostum)
+Pembeli --> (Membeli Kostum)
+Penjual --> (Menjual Kostum)
+Admin --> (Mengelola Produk Kostum)
+
+(Melihat Kostum) ..> (Membeli Kostum) : <<extend>>
+(Membeli Kostum) .> (Pembayaran) : <<include>>
+(Membeli Kostum) .> (Pengiriman Kostum) : <<include>>
+
+@enduml

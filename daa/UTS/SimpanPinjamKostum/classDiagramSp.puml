@@ -1,0 +1,31 @@
+@startuml
+class Kostum {
+  +id: int
+  +nama: String
+  +kondisi: String
+  +getKeterangan(): String
+}
+
+class Peminjam {
+  +id: int
+  +nama: String
+  +meminjamKostum(): void
+}
+
+class Petugas {
+  +id: int
+  +nama: String
+  +mengelolaKostum(): void
+}
+
+class Admin {
+  +id: int
+  +nama: String
+  +mengelolaDataPeminjam(): void
+}
+
+Kostum "1" -- "0..*" Peminjam : meminjam
+Kostum "1" -- "0..*" Petugas : mengelola
+Kostum "1" -- "0..1" Admin : mengelola
+
+@enduml
