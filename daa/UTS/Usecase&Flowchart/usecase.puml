@@ -1,0 +1,18 @@
+@startuml
+actor Admin
+
+Admin -> (Login)
+Admin -> (Lihat Barang)
+Admin -> (Tambah Barang)
+Admin -> (Edit Barang)
+Admin -> (Hapus Barang)
+
+(Lihat Barang) .down.> (Tabel Barang) : Tampilkan data barang
+(Lihat Barang) .down.> (Filter Barang) : Saring data barang
+
+(Tambah Barang) .down.> (Form Input Barang) : Isi informasi barang
+(Edit Barang) .down.> (Form Input Barang) : Edit informasi barang
+
+(Tambah Barang) --> (Validasi Input) : Validasi input
+(Edit Barang) --> (Validasi Input) : Validasi input
+@enduml

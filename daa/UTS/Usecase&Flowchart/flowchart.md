@@ -1,0 +1,1 @@
+Flowchart menggambarkan proses manajemen data barang yang dimulai dari login, melihat barang, menambah atau mengedit data barang, hingga menyaring dan menghapus barang. Semua proses ini mendukung pengelolaan data barang.

@@ -1,0 +1,25 @@
+@startuml
+!define RECTANGLE class
+actor Admin
+
+Admin -> (Login)
+(Login) -> (Dashboard)
+(Admin) -> (Tambah Barang)
+(Admin) -> (Edit Barang)
+(Admin) -> (Hapus Barang)
+(Admin) -> (Lihat Barang)
+
+(Lihat Barang) -> (Tabel Barang)
+(Lihat Barang) -> (Filter Barang)
+
+(Tambah Barang) -> (Form Input Barang)
+(Edit Barang) -> (Form Input Barang)
+
+(Lihat Barang) -> (Validasi Input)
+(Tambah Barang) -> (Validasi Input)
+
+(Tambah Barang) -> (Simpan Barang)
+(Edit Barang) -> (Update Barang)
+(Hapus Barang) -> (Hapus Barang)
+
+@enduml
