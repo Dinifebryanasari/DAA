@@ -1,5 +1,3 @@
-Berikut adalah tabel yang lebih rapih untuk memperjelas struktur komunitas sosial dan acara yang dibangun dalam aplikasi:
-
 ### Jenis-Jenis Komunitas Sosial
 
 | **Jenis Komunitas**  | **Deskripsi**                                                                                   |

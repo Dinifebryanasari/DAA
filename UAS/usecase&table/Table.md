@@ -1,7 +1,3 @@
-Berikut adalah versi yang lebih rapi dari tabel yang ada pada dokumen **Sosial dan Komunitas**:
-
----
-
 ### Jenis-Jenis Komunitas Sosial
 
 | **Jenis Komunitas**    | **Deskripsi**                                                                                                 |
@@ -35,5 +31,3 @@ Berikut adalah versi yang lebih rapi dari tabel yang ada pada dokumen **Sosial d
 | Membantu identitas sosial                        | Diskriminasi sosial                                  |
 
 ---
-
-Dengan penyajian tabel yang lebih rapi, informasi mengenai jenis-jenis komunitas dan 5W1H lebih mudah dibaca dan dipahami. Apakah ada bagian lain yang perlu diperbaiki atau ditambahkan?
