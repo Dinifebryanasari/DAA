@@ -1,7 +1,11 @@
-# 1. Buatlah company profile
-# Nama perusahaan **Biliar Training Center (BTC)**
+# Company Profile
+
+## Nama Perusahaan
+**Biliar Training Center (BTC)**
+
 ## **Visi**
 Menjadi pusat pelatihan biliar terkemuka di dunia yang menghasilkan atlet-atlet hebat dan memimpin pengembangan olahraga biliar di tingkat nasional dan internasional.
+
 ## **Misi**
 1. **Mengembangkan Potensi Atlet Muda**  
    Memberikan pelatihan intensif yang berfokus pada pengembangan keterampilan fisik dan mental atlet muda untuk mencapai prestasi tertinggi.
@@ -11,13 +15,16 @@ Menjadi pusat pelatihan biliar terkemuka di dunia yang menghasilkan atlet-atlet 
    Pelatihan berkualitas tinggi dan partisipasi aktif dalam turnamen akan meningkatkan pengakuan dan profesionalisme olahraga biliar.
 4. **Membangun Kemitraan Strategis**  
    Berkolaborasi dengan mitra dan sponsor untuk memberikan dukungan yang diperlukan untuk pertumbuhan atlet.
+
 ## **Sejarah**
 Berdiri pada tahun 2010, **Biliar Training Center (BTC)** didirikan oleh sekelompok profesional dan mantan atlet biliar yang berpengalaman dengan tujuan menemukan dan melatih atlet muda yang berbakat dengan fokus pada pembinaan atlet yang mampu bersaing di tingkat nasional dan internasional. Sejak berdirinya, BTC telah mencetak juara di berbagai turnamen lokal, nasional, dan internasional. Saat ini, BTC telah berkembang menjadi pusat pelatihan yang dihormati di dunia olahraga biliar.
+
 ## **Pencapaian**
 - **Juara Nasional:** Atlet kami telah memenangkan lebih dari lima puluh medali emas dan perak di turnamen biliar nasional.
 - **Juara Internasional:** Atlet kami telah memenangkan kejuaraan biliar di Asia dan Eropa.
 - **Penciptaan Juara Dunia:** Kami telah melahirkan atlet yang kini berkompetisi di arena internasional.
 - **Program Pengembangan Atlet:** Lebih dari sepuluh program pelatihan yang dirancang untuk berbagai kategori usia dan kemampuan.
+
 ## **Program Pelatihan**
 Biliar Training Center (BTC) menyediakan berbagai program pelatihan untuk membantu atlet mencapai potensi terbaik mereka:
 1. **Program Pemula**  
@@ -28,12 +35,14 @@ Biliar Training Center (BTC) menyediakan berbagai program pelatihan untuk memban
    Latihan intensif dalam taktik, teknik, dan manajemen untuk atlet yang siap bersaing di tingkat nasional dan internasional.
 4. **Pelatihan Fisik dan Mental**  
    Program yang mencakup latihan kebugaran fisik serta program penguatan mental dan fisik.
+
 ## **Lokasi**
-Dengan fasilitas pelatihan yang lengkap dan akses mudah bagi atlet dan pengunjung, Biliar Training Center terletak di kawasan strategis pusat kota. Fasilitas kami mencakup ruang latihan biliar, gym untuk latihan fisik, ruang psikologi olahraga, dan area untuk turnamen serta acara pelatihan.
+Dengan fasilitas pelatihan yang lengkap dan akses mudah bagi atlet dan pengunjung, Biliar Training Center terletak di kawasan strategis pusat kota. Fasilitas kami mencakup ruang latihan biliar, gym untuk latihan fisik, ruang psikologi olahraga, dan area untuk turnamen serta acara pelatihan.  
 **Alamat:**  
 Jalan Pelatihan Biliar No. 8, Jakarta, Indonesia.
 
-## 2. Buatlah dashboard control untuk company profile
+---
+
 # Dashboard Control - BTC
 - **Jumlah Atlet Terdaftar**: 150 Atlet
 - **Jumlah Program Pelatihan**: 4 Program
@@ -46,8 +55,11 @@ Jalan Pelatihan Biliar No. 8, Jakarta, Indonesia.
   - Ruang Psikologi Olahraga
   - Area Turnamen
 - **Total Mitra & Sponsor**: 15
-## 3. Buatlah porsi latihan untuk atlet  
+
+---
+
 # Porsi Latihan Atlet BTC
+
 ### **Porsi Latihan Mingguan**
 - **Senin - Rabu**:  
   - **Pagi**: Latihan teknik dasar (draw shot, stop shot, jump shot)  
@@ -58,18 +70,41 @@ Jalan Pelatihan Biliar No. 8, Jakarta, Indonesia.
 - **Sabtu**:  
   - **Full Day**: Simulasi pertandingan dan evaluasi taktik
 
-## 4. Buatlah data personal untuk atlet   
+---
+
 # Data Personal Atlet BTC
-- **Nama Atlet**: John Doe  
+
+### 1. **Inaayatuljannah**
 - **Umur**: 25  
 - **Posisi**: Pemain Profesional  
 - **Program Pelatihan**: Program Profesional  
 - **Medali Terakhir**: Juara 1 Kejuaraan Nasional 2024  
 - **Pelatih**: Coach A  
-- **Kontak**: john.doe@email.com  
+- **Kontak**: inaayatuljannah@email.com  
 - **Catatan**: Fokus pada penguatan strategi dan kontrol bola putih.
 
-## 5. Buatlah klasifikasi terhadap penilaian atlet 
+### 2. **Dinda Claudya**
+- **Umur**: 22  
+- **Posisi**: Pemain Profesional  
+- **Program Pelatihan**: Program Profesional  
+- **Medali Terakhir**: Juara 2 Kejuaraan Internasional 2023  
+- **Pelatih**: Coach B  
+- **Kontak**: dinda.claudya@email.com  
+- **Catatan**: Fokus pada latihan fisik dan teknik putaran bola.
+
+### 3. **Rasyid Nur Faqih**
+- **Umur**: 24  
+- **Posisi**: Pemain Menengah  
+- **Program Pelatihan**: Program Menengah  
+- **Medali Terakhir**: Juara 3 Kejuaraan Nasional 2024  
+- **Pelatih**: Coach C  
+- **Kontak**: rasyid.nf@email.com  
+- **Catatan**: Fokus pada teknik dasar dan penguatan mental.
+
+---
+
+# Klasifikasi Penilaian Atlet
+
 ### **Kategori Penilaian**
 1. **Teknik Dasar**  
    - 1 - 5: Pemula  
@@ -91,60 +126,42 @@ Jalan Pelatihan Biliar No. 8, Jakarta, Indonesia.
    - 6 - 10: Cukup Baik  
    - 11 - 15: Sangat Baik
 
-## 6. Buatlah klasemen atlet biliar yang bisa ikut bertanding, yaitu atlet yang telah menyelesaikan porsi latihan
-# Klasemen Atlet Biliar
+---
 
-Klasemen ini menyusun atlet berdasarkan tiga kategori utama: medali yang dimenangkan, hasil dari porsi latihan yang telah diselesaikan, dan keterampilan mental serta fisik yang mereka tunjukkan selama pelatihan dan pertandingan.
+# Klasemen Atlet Biliar BTC
 
 ## 1. Peringkat Berdasarkan Medali
+Atlet yang memenangkan medali dalam turnamen akan diperingkat berdasarkan jumlah medali yang dimiliki.
 
-Atlet yang memenangkan medali dalam berbagai turnamen (Emas, Perak, Perunggu) akan diperingkat berdasarkan jumlah medali yang dimiliki.
-
-| **Peringkat** | **Nama Atlet**  | **Medali Emas** | **Medali Perak** | **Medali Perunggu** | **Total Medali** | **Poin** |
-|---------------|-----------------|-----------------|------------------|---------------------|------------------|----------|
-| 1             | John Doe        | 5               | 3                | 2                   | 10               | 120      |
-| 2             | Jane Smith      | 3               | 4                | 1                   | 8                | 105      |
-| 3             | Alex Johnson    | 2               | 2                | 3                   | 7                | 95       |
-
----
+- **Inaayatuljannah**: 5 Emas, 3 Perak, 2 Perunggu (Total Medali: 10)
+- **Dinda Claudya**: 3 Emas, 4 Perak, 1 Perunggu (Total Medali: 8)
+- **Rasyid Nur Faqih**: 2 Emas, 2 Perak, 3 Perunggu (Total Medali: 7)
 
 ## 2. Peringkat Berdasarkan Hasil Latihan
+Atlet yang telah menyelesaikan porsi latihan akan diperingkat berdasarkan tingkat kemajuan mereka dalam latihan.
 
-Atlet yang telah menyelesaikan porsi latihan akan diperingkat berdasarkan tingkat kemajuan yang dicapai dalam porsi latihan yang telah diselesaikan.
-
-| **Peringkat** | **Nama Atlet**  | **Porsi Latihan Selesai** | **Kemajuan (%)** | **Poin** |
-|---------------|-----------------|---------------------------|------------------|----------|
-| 1             | John Doe        | 10/10                     | 100%             | 110      |
-| 2             | Jane Smith      | 8/10                      | 80%              | 95       |
-| 3             | Alex Johnson    | 6/10                      | 60%              | 85       |
-
----
+- **Inaayatuljannah**: 10/10 Latihan Selesai, 100% Kemajuan
+- **Dinda Claudya**: 8/10 Latihan Selesai, 80% Kemajuan
+- **Rasyid Nur Faqih**: 6/10 Latihan Selesai, 60% Kemajuan
 
 ## 3. Peringkat Berdasarkan Keterampilan Mental dan Fisik
+Atlet yang memiliki keterampilan mental yang baik dan kondisi fisik yang prima akan diperingkat lebih tinggi.
 
-Atlet yang memiliki keterampilan mental yang baik dan kondisi fisik prima akan mendapat peringkat lebih tinggi. Ini diukur berdasarkan kemampuan mereka bertahan di bawah tekanan dan stamina fisik yang terjaga.
+- **Inaayatuljannah**: Mental: 90, Fisik: 85
+- **Dinda Claudya**: Mental: 85, Fisik: 80
+- **Rasyid Nur Faqih**: Mental: 75, Fisik: 70
 
-| **Peringkat** | **Nama Atlet**  | **Keterampilan Mental** | **Kondisi Fisik** | **Poin** |
-|---------------|-----------------|-------------------------|-------------------|----------|
-| 1             | John Doe        | 90                      | 85                | 120      |
-| 2             | Jane Smith      | 85                      | 80                | 100      |
-| 3             | Alex Johnson    | 75                      | 70                | 90       |
+## 4. Klasemen Final Berdasarkan Kombinasi Semua Kategori
+Kombinasi dari ketiga kategori di atas untuk menentukan peringkat akhir atlet.
+
+- **Inaayatuljannah**: 350 Poin
+- **Dinda Claudya**: 300 Poin
+- **Rasyid Nur Faqih**: 270 Poin
 
 ---
 
-## 4. Klasemen Final Berdasarkan Kombinasi Semua Kategori
-
-Kombinasi dari ketiga kategori di atas akan digunakan untuk menentukan peringkat akhir atlet.
-
-| **Peringkat** | **Nama Atlet**  | **Medali (Poin)** | **Latihan (Poin)** | **Mental & Fisik (Poin)** | **Total Poin** |
-|---------------|-----------------|-------------------|--------------------|---------------------------|----------------|
-| 1             | John Doe        | 120               | 110                | 120                       | 350            |
-| 2             | Jane Smith      | 105               | 95                 | 100                       | 300            |
-| 3             | Alex Johnson    | 95                | 85                 | 90                        | 270            |
-
-
-## 7. Buatlah manajemen waktu terkait pertandingan atlet.
 # Manajemen Waktu Pertandingan
+
 ### **Jadwal Pertandingan**
 - **Senin**:  
   - **9:00 AM - 11:00 AM**: Pertandingan Simulasi Internal (Atlet A vs Atlet B)
