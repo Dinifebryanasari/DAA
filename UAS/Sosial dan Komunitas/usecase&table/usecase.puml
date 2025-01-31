@@ -1,0 +1,18 @@
+@startuml
+left to right direction
+actor User
+actor Admin
+
+rectangle "Komunitas Sosial" {
+  User --> (Bergabung dengan Komunitas)
+  User --> (Berdiskusi di Forum)
+  User --> (Mengikuti Acara Komunitas)
+  User --> (Menyumbang Ide)
+  
+  Admin --> (Menyetujui Anggota Baru)
+  Admin --> (Mengelola Forum)
+  Admin --> (Mengatur Acara Komunitas)
+  Admin --> (Memoderasi Diskusi)
+}
+
+@enduml
